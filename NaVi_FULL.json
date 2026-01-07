@@ -1,0 +1,1537 @@
+{
+  "PlayerData": [
+    {
+      "ID": 4201,
+      "Forename": "Oleksandr",
+      "Surname": "Kostyliev",
+      "ImageURL": "https://mqx1.github.io/s1mple.png",
+      "ClubID": 5119
+    },
+    {
+      "ID": 4202,
+      "Forename": "Valerii",
+      "Surname": "Vakhovskyi",
+      "ImageURL": "https://d3dwep9z8m8y9r.cloudfront.net/players/2025/06/players-1873/navi_portrait/56320/b1t_830x1044.png",
+      "ClubID": 5119
+    },
+    {
+      "ID": 4203,
+      "Forename": "Ihor",
+      "Surname": "Zhdanov",
+      "ImageURL": "https://d3dwep9z8m8y9r.cloudfront.net/players/2025/06/players-5571/navi_portrait/56332/wonderful_830x1044.png",
+      "ClubID": 5119
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 5119,
+      "Name": "Natus Vincere",
+      "ShortName": "NAVI",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/uk/d/df/Natus_Vincere_Logo.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 97,
+      "Name": "Premier Liha",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/leagues/97.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 190,
+      "Name": "Ukrainian Cup",
+      "ImageURL": "https://cdn.soccerwiki.org/images/logos/cups/190.png"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1303,
+      "Name": "Olimpiysky NSC"
+    }
+  ],
+  "ManagerData": [
+    {
+      "ID": 259,
+      "Forename": "Oleg",
+      "Surname": "PROTASOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/259.jpg"
+    },
+    {
+      "ID": 499,
+      "Forename": "Ilya",
+      "Surname": "BLIZNYUK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/499.jpg"
+    },
+    {
+      "ID": 601,
+      "Forename": "Myron",
+      "Surname": "MARKEVYCH",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/601.jpg"
+    },
+    {
+      "ID": 1016,
+      "Forename": "Yuriy",
+      "Surname": "MAXIMOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/1016.jpg"
+    },
+    {
+      "ID": 1018,
+      "Forename": "Serhiy",
+      "Surname": "PUCHKOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/1018.jpg"
+    },
+    {
+      "ID": 1087,
+      "Forename": "Anatoliy",
+      "Surname": "CHANTSEV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/1087.jpg"
+    },
+    {
+      "ID": 1088,
+      "Forename": "Mykola",
+      "Surname": "PAVLOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 1241,
+      "Forename": "Yuri",
+      "Surname": "SHATALOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/1241_1344844817.jpg"
+    },
+    {
+      "ID": 1491,
+      "Forename": "Serhiy",
+      "Surname": "KOVALETS",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/1491.png"
+    },
+    {
+      "ID": 2434,
+      "Forename": "Yuriy",
+      "Surname": "BAKALOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/2434.png"
+    },
+    {
+      "ID": 2456,
+      "Forename": "Vitaliy",
+      "Surname": "KVARTSYANYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2696,
+      "Forename": "Oleh",
+      "Surname": "BLOCHIN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/2696.jpg"
+    },
+    {
+      "ID": 2739,
+      "Forename": "Volodymyr",
+      "Surname": "SHARAN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/2739.png"
+    },
+    {
+      "ID": 3783,
+      "Forename": "Vadym",
+      "Surname": "YEVTUSHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3784,
+      "Forename": "Serhiy",
+      "Surname": "KONYUSHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/3784_1354675123.jpg"
+    },
+    {
+      "ID": 4050,
+      "Forename": "Andriy",
+      "Surname": "GUSIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4149,
+      "Forename": "Oleg",
+      "Surname": "TARAN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/4149.jpg"
+    },
+    {
+      "ID": 4438,
+      "Forename": "Rinat",
+      "Surname": "ACHMETOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/4438_1352419780.jpg"
+    },
+    {
+      "ID": 4888,
+      "Forename": "Roman",
+      "Surname": "POKORA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5194,
+      "Forename": "Yuri",
+      "Surname": "KALITVINTSEV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/5194.jpg"
+    },
+    {
+      "ID": 5493,
+      "Forename": "Vadym",
+      "Surname": "ZAYATS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5553,
+      "Forename": "Oleksandr",
+      "Surname": "SEVYDOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/5553.jpg"
+    },
+    {
+      "ID": 5557,
+      "Forename": "Vladimir",
+      "Surname": "LYUTYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/5557.jpg"
+    },
+    {
+      "ID": 5575,
+      "Forename": "Roman",
+      "Surname": "HRYHORCHUK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/5575.jpg"
+    },
+    {
+      "ID": 5602,
+      "Forename": "Oleg",
+      "Surname": "LUZHNY",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/5602.jpg"
+    },
+    {
+      "ID": 6196,
+      "Forename": "Vyacheslav",
+      "Surname": "GROZNY",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/6196.jpg"
+    },
+    {
+      "ID": 6252,
+      "Forename": "Volodymyr",
+      "Surname": "PYATENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6277,
+      "Forename": "Viktor",
+      "Surname": "LEVADA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6300,
+      "Forename": "Volodymyr",
+      "Surname": "ZHURAVCHAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6301,
+      "Forename": "Oleh",
+      "Surname": "LESHCHYNSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6524,
+      "Forename": "Mykhaylo",
+      "Surname": "FOMENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/6524.jpg"
+    },
+    {
+      "ID": 6623,
+      "Forename": "Andriy",
+      "Surname": "PARKHOMENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/6623.jpg"
+    },
+    {
+      "ID": 6741,
+      "Forename": "Yuri",
+      "Surname": "VERNYDUB",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/6741.png"
+    },
+    {
+      "ID": 6828,
+      "Forename": "Vasyl",
+      "Surname": "SACHKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/6828.jpg"
+    },
+    {
+      "ID": 7166,
+      "Forename": "Sergey",
+      "Surname": "PODPALY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7206,
+      "Forename": "Ihor",
+      "Surname": "RAKHAYEV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7289,
+      "Forename": "Viktor",
+      "Surname": "SKRYPNYK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/7289.png"
+    },
+    {
+      "ID": 7337,
+      "Forename": "Serhiy",
+      "Surname": "REBROV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/7337.png"
+    },
+    {
+      "ID": 7465,
+      "Forename": "Roman",
+      "Surname": "SANZHAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7488,
+      "Forename": "Helzin",
+      "Surname": "VLADYSLAV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7502,
+      "Forename": "Igor",
+      "Surname": "ZHABCHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/7502.jpg"
+    },
+    {
+      "ID": 7632,
+      "Forename": "Gennady",
+      "Surname": "ORBU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7938,
+      "Forename": "Bohdan",
+      "Surname": "BLAVATSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8285,
+      "Forename": "Oleksandr",
+      "Surname": "BABYCH",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/8285.png"
+    },
+    {
+      "ID": 8480,
+      "Forename": "Valeriy",
+      "Surname": "KRYVENTSOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8585,
+      "Forename": "Volodymyr",
+      "Surname": "MAZYAR",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/8585.jpg"
+    },
+    {
+      "ID": 8699,
+      "Forename": "Valery",
+      "Surname": "CHALY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8716,
+      "Forename": "Oleksandr",
+      "Surname": "SEVIDOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8748,
+      "Forename": "Andriy",
+      "Surname": "SHEVCHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/8748.png"
+    },
+    {
+      "ID": 8892,
+      "Forename": "Sergey",
+      "Surname": "ZAYTSEV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8895,
+      "Forename": "Victor",
+      "Surname": "DOHADAYLO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8897,
+      "Forename": "Dmytro",
+      "Surname": "MIKHAILENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9012,
+      "Forename": "Yuriy",
+      "Surname": "VIRT",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/9012.png"
+    },
+    {
+      "ID": 9015,
+      "Forename": "Roman",
+      "Surname": "MONAREV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9201,
+      "Forename": "Kostyantyn",
+      "Surname": "FROLOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9202,
+      "Forename": "Oleg",
+      "Surname": "BOYCHYSHYN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9389,
+      "Forename": "Ihor",
+      "Surname": "LEONOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9390,
+      "Forename": "Ihor",
+      "Surname": "KLYMOVSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9391,
+      "Forename": "Vitaliy",
+      "Surname": "KOSOVSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9392,
+      "Forename": "Oleksandr",
+      "Surname": "RYABOKON",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9579,
+      "Forename": "Ruslan",
+      "Surname": "KOSTYSHIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9580,
+      "Forename": "Dmytro",
+      "Surname": "MYKHAYLENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9656,
+      "Forename": "Ostap",
+      "Surname": "MARKEVYCH",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9657,
+      "Forename": "Serhiy",
+      "Surname": "LAVRYNENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9659,
+      "Forename": "Vasyl",
+      "Surname": "KOBIN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/9659.png"
+    },
+    {
+      "ID": 9660,
+      "Forename": "Ivan",
+      "Surname": "FEDYK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/9660.png"
+    },
+    {
+      "ID": 9721,
+      "Forename": "Yuriy",
+      "Surname": "MAKSYMOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/9721.png"
+    },
+    {
+      "ID": 9872,
+      "Forename": "Yuriy",
+      "Surname": "HURA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9873,
+      "Forename": "Serhiy",
+      "Surname": "LITOVCHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9874,
+      "Forename": "Yuriy",
+      "Surname": "MOROZ",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9888,
+      "Forename": "Oleksandr",
+      "Surname": "PETRAKOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10593,
+      "Forename": "Roman",
+      "Surname": "KOZHUKHOVSKYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/10593.png"
+    },
+    {
+      "ID": 10615,
+      "Forename": "Maksym",
+      "Surname": "KALYNYCHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10667,
+      "Forename": "Oleksandr",
+      "Surname": "KUCHER",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10671,
+      "Forename": "Yaroslav",
+      "Surname": "VYSHNYAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10916,
+      "Forename": "Ruslan",
+      "Surname": "ROTAN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/10916.png"
+    },
+    {
+      "ID": 11105,
+      "Forename": "Halovskyi",
+      "Surname": "EDMAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11240,
+      "Forename": "Oleg",
+      "Surname": "STARYNSKIY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11370,
+      "Forename": "Valeriy",
+      "Surname": "IVASHCHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11371,
+      "Forename": "Oleksandr",
+      "Surname": "KOVPAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12036,
+      "Forename": "Vitaliy",
+      "Surname": "PONOMARYOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12036.png"
+    },
+    {
+      "ID": 12053,
+      "Forename": "Oleh",
+      "Surname": "SHANDRUK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12053.png"
+    },
+    {
+      "ID": 12074,
+      "Forename": "Oleksandr",
+      "Surname": "SHOVKOVSKYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12074.png"
+    },
+    {
+      "ID": 12088,
+      "Forename": "Mykola",
+      "Surname": "TSYMBAL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12089,
+      "Forename": "Anatoliy",
+      "Surname": "BEZSMERTNYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12089.png"
+    },
+    {
+      "ID": 12149,
+      "Forename": "Dmytro",
+      "Surname": "CHYRYKAL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12176,
+      "Forename": "Valeriy",
+      "Surname": "CHORNYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12176.png"
+    },
+    {
+      "ID": 12181,
+      "Forename": "Vadym",
+      "Surname": "LAZORENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12187,
+      "Forename": "Volodymyr",
+      "Surname": "TSYTKIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12188,
+      "Forename": "Roman",
+      "Surname": "LOKTIONOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12263,
+      "Forename": "Valeriy",
+      "Surname": "SHAPOVALOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12264,
+      "Forename": "Vasyl",
+      "Surname": "BARANOV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12264.png"
+    },
+    {
+      "ID": 12265,
+      "Forename": "Mykhaylo",
+      "Surname": "BASARAB",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12580,
+      "Forename": "Yuriy",
+      "Surname": "GURA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12694,
+      "Forename": "Vladyslav",
+      "Surname": "LUPASHKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12694.png"
+    },
+    {
+      "ID": 12695,
+      "Forename": "Vitaliy",
+      "Surname": "PERVAK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12695.png"
+    },
+    {
+      "ID": 12700,
+      "Forename": "Imad",
+      "Surname": "ASHUR",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12700.png"
+    },
+    {
+      "ID": 12710,
+      "Forename": "Andrey",
+      "Surname": "DEMCHENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12716,
+      "Forename": "Oleksandr",
+      "Surname": "POZDEEV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12716.png"
+    },
+    {
+      "ID": 12717,
+      "Forename": "Sergiy",
+      "Surname": "SHYSHCHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12717.png"
+    },
+    {
+      "ID": 12754,
+      "Forename": "Sergiy",
+      "Surname": "DOLGANSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12774,
+      "Forename": "Anatoliy",
+      "Surname": "SYDENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12790,
+      "Forename": "Oleksandr",
+      "Surname": "CHYZHEVSKYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12790.png"
+    },
+    {
+      "ID": 12791,
+      "Forename": "Sergiy",
+      "Surname": "NAGORNYAK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12791.png"
+    },
+    {
+      "ID": 12792,
+      "Forename": "Yaromyr",
+      "Surname": "LOBODA",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12792.png"
+    },
+    {
+      "ID": 12793,
+      "Forename": "Igor",
+      "Surname": "KLYMOVSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12794,
+      "Forename": "Andriy",
+      "Surname": "ANISHCHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12794.png"
+    },
+    {
+      "ID": 12795,
+      "Forename": "Vitaliy",
+      "Surname": "KOSTYSHYN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12796,
+      "Forename": "Oleg",
+      "Surname": "RYPAN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12796.png"
+    },
+    {
+      "ID": 12802,
+      "Forename": "Oleg",
+      "Surname": "KRASNOPYOROV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12803,
+      "Forename": "Yuriy",
+      "Surname": "YAROSHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12803.png"
+    },
+    {
+      "ID": 12804,
+      "Forename": "Igor",
+      "Surname": "LUTSENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12814,
+      "Forename": "Valeriy",
+      "Surname": "KUTSENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12864,
+      "Forename": "Bogdan",
+      "Surname": "KOSTYK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12865,
+      "Forename": "Yaroslav",
+      "Surname": "MATVIIV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12866,
+      "Forename": "Oleksiy",
+      "Surname": "ZORIN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12867,
+      "Forename": "Volodymyr",
+      "Surname": "KOVALYUK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12867.png"
+    },
+    {
+      "ID": 12874,
+      "Forename": "Stepan",
+      "Surname": "MATVIIV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12879,
+      "Forename": "Shyl Gautam",
+      "Surname": "KISHAN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12880,
+      "Forename": "Sergiy",
+      "Surname": "LAKTIONOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12881,
+      "Forename": "Iya",
+      "Surname": "ANDRUSHCHAK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12882,
+      "Forename": "Viktor",
+      "Surname": "BYTSYURA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12883,
+      "Forename": "Maksym",
+      "Surname": "TSVIRENKO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12934,
+      "Forename": "Sergiy",
+      "Surname": "KARPENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/12934.png"
+    },
+    {
+      "ID": 13167,
+      "Forename": "Ruslan",
+      "Surname": "KOSTYSHYN",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13167.png"
+    },
+    {
+      "ID": 13168,
+      "Forename": "Volodymyr",
+      "Surname": "SYSENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13168.png"
+    },
+    {
+      "ID": 13169,
+      "Forename": "Yevgen",
+      "Surname": "KALYNYCHENKO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13169.png"
+    },
+    {
+      "ID": 13170,
+      "Forename": "Roman",
+      "Surname": "MARYCH",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13170.png"
+    },
+    {
+      "ID": 13171,
+      "Forename": "Roman",
+      "Surname": "GNATIV",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13171.png"
+    },
+    {
+      "ID": 13172,
+      "Forename": "Vyacheslav",
+      "Surname": "NIVINSKYI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13407,
+      "Forename": "Maksym",
+      "Surname": "DEMSKYI",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13407.png"
+    },
+    {
+      "ID": 13429,
+      "Forename": "Oleksandr",
+      "Surname": "Antonenko",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13429.png"
+    },
+    {
+      "ID": 13474,
+      "Forename": "Andriy",
+      "Surname": "GAVRYUSHOV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13475,
+      "Forename": "Maksym",
+      "Surname": "FESHCHUK",
+      "ImageURL": "https://cdn.soccerwiki.org/images/manager/13475.png"
+    },
+    {
+      "ID": 13517,
+      "Forename": "Denys",
+      "Surname": "OLIYNYK",
+      "ImageURL": ""
+    }
+  ],
+  "InternationalData": [
+    {
+      "ID": "UKR",
+      "Name": "Ukraine",
+      "ShortName": "UKR",
+      "ImageURL": "https://cdn.soccerwiki.org/images/international/UKR.png"
+    }
+  ],
+  "InternationalCupData": [
+    {
+      "ID": 1,
+      "Name": "FIFA World Cup"
+    },
+    {
+      "ID": 13,
+      "Name": "European Championship"
+    },
+    {
+      "ID": 25,
+      "Name": "FIFA Confederations Cup"
+    },
+    {
+      "ID": 37,
+      "Name": "AFC Asian Cup"
+    },
+    {
+      "ID": 39,
+      "Name": "Copa América"
+    },
+    {
+      "ID": 41,
+      "Name": "Africa Cup of Nations"
+    },
+    {
+      "ID": 52,
+      "Name": "European U-21 Championship"
+    },
+    {
+      "ID": 89,
+      "Name": "AFF Cup"
+    },
+    {
+      "ID": 116,
+      "Name": "SAFF Championship"
+    },
+    {
+      "ID": 209,
+      "Name": "CONCACAF Gold Cup"
+    },
+    {
+      "ID": 226,
+      "Name": "CONMEBOL-UEFA Cup of Champions"
+    }
+  ],
+  "PlayerImages": {
+    "12": {
+      "ImageActionURL": "12-action.png"
+    },
+    "25": {
+      "ImageActionURL": "25-action.png"
+    },
+    "27": {
+      "ImageActionURL": "27-action.png"
+    },
+    "160": {
+      "ImageActionURL": "160-action.png"
+    },
+    "455": {
+      "ImageActionURL": "455-action.png"
+    },
+    "467": {
+      "ImageActionURL": "467-action.png"
+    },
+    "471": {
+      "ImageActionURL": "471-action.png"
+    },
+    "473": {
+      "ImageActionURL": "473-action.png"
+    },
+    "998": {
+      "ImageActionURL": "998-action.png"
+    },
+    "1004": {
+      "ImageActionURL": "1004-action.png"
+    },
+    "1083": {
+      "ImageActionURL": "1083-action.png"
+    },
+    "1123": {
+      "ImageActionURL": "1123-action.png"
+    },
+    "1128": {
+      "ImageActionURL": "1128-action.png"
+    },
+    "1131": {
+      "ImageActionURL": "1131-action.png"
+    },
+    "1215": {
+      "ImageActionURL": "1215-action.png"
+    },
+    "2365": {
+      "ImageActionURL": "2365-action.png"
+    },
+    "2372": {
+      "ImageActionURL": "2372-action.png"
+    },
+    "2378": {
+      "ImageActionURL": "2378-action.png"
+    },
+    "2382": {
+      "ImageActionURL": "2382-action.png"
+    },
+    "2460": {
+      "ImageActionURL": "2460-action.png"
+    },
+    "2465": {
+      "ImageActionURL": "2465-action.png"
+    },
+    "2474": {
+      "ImageActionURL": "2474-action.png"
+    },
+    "2475": {
+      "ImageActionURL": "2475-action.png"
+    },
+    "2476": {
+      "ImageActionURL": "2476-action.png"
+    },
+    "2751": {
+      "ImageActionURL": "2751-action.png"
+    },
+    "2761": {
+      "ImageActionURL": "2761-action.png"
+    },
+    "2767": {
+      "ImageActionURL": "2767-action.png"
+    },
+    "2772": {
+      "ImageActionURL": "2772-action.png"
+    },
+    "2774": {
+      "ImageActionURL": "2774-action.png"
+    },
+    "2900": {
+      "ImageActionURL": "2900-action.png"
+    },
+    "2907": {
+      "ImageActionURL": "2907-action.png"
+    },
+    "2912": {
+      "ImageActionURL": "2912-action.png"
+    },
+    "2916": {
+      "ImageActionURL": "2916-action.png"
+    },
+    "2918": {
+      "ImageActionURL": "2918-action.png"
+    },
+    "2919": {
+      "ImageActionURL": "2919-action.png"
+    },
+    "2920": {
+      "ImageActionURL": "2920-action.png"
+    },
+    "2950": {
+      "ImageActionURL": "2950-action.png"
+    },
+    "3875": {
+      "ImageActionURL": "3875-action.png"
+    },
+    "3884": {
+      "ImageActionURL": "3884-action.png"
+    },
+    "3898": {
+      "ImageActionURL": "3898-action.png"
+    },
+    "3942": {
+      "ImageActionURL": "3942-action.png"
+    },
+    "4336": {
+      "ImageActionURL": "4336-action.png"
+    },
+    "4554": {
+      "ImageActionURL": "4554-action.png"
+    },
+    "6378": {
+      "ImageActionURL": "6378-action.png"
+    },
+    "16053": {
+      "ImageActionURL": "16053-action.png"
+    },
+    "18649": {
+      "ImageActionURL": "18649-action.png"
+    },
+    "19587": {
+      "ImageActionURL": "19587-action.png"
+    },
+    "29738": {
+      "ImageActionURL": "29738-action.png"
+    },
+    "31121": {
+      "ImageActionURL": "31121-action.png"
+    },
+    "34893": {
+      "ImageActionURL": "34893-action.png"
+    },
+    "36211": {
+      "ImageActionURL": "36211-action.png"
+    },
+    "38125": {
+      "ImageActionURL": "38125-action.png"
+    },
+    "38147": {
+      "ImageActionURL": "38147-action.png"
+    },
+    "38457": {
+      "ImageActionURL": "38457-action.png"
+    },
+    "38848": {
+      "ImageActionURL": "38848-action.png"
+    },
+    "39419": {
+      "ImageActionURL": "39419-action.png"
+    },
+    "41018": {
+      "ImageActionURL": "41018-action.png"
+    },
+    "41105": {
+      "ImageActionURL": "41105-action.png",
+      "ImagePeakURL": "41105-peak.png",
+      "ImageYouthURL": "41105-youth.png"
+    },
+    "41780": {
+      "ImageActionURL": "41780-action.png"
+    },
+    "42005": {
+      "ImageActionURL": "42005-action.png"
+    },
+    "43493": {
+      "ImageActionURL": "43493-action.png"
+    },
+    "44009": {
+      "ImageActionURL": "44009-action.png"
+    },
+    "45184": {
+      "ImageActionURL": "45184-action.png"
+    },
+    "45279": {
+      "ImageActionURL": "45279-action.png"
+    },
+    "45710": {
+      "ImageActionURL": "45710-action.png"
+    },
+    "46443": {
+      "ImageActionURL": "46443-action.png"
+    },
+    "46883": {
+      "ImageActionURL": "46883-action.png"
+    },
+    "47215": {
+      "ImageActionURL": "47215-action.png"
+    },
+    "49590": {
+      "ImageActionURL": "49590-action.png"
+    },
+    "49618": {
+      "ImageActionURL": "49618-action.png"
+    },
+    "52690": {
+      "ImageActionURL": "52690-action.png"
+    },
+    "53468": {
+      "ImageActionURL": "53468-action.png",
+      "ImageYouthURL": "53468-youth.png"
+    },
+    "53792": {
+      "ImageActionURL": "53792-action.png"
+    },
+    "54915": {
+      "ImageActionURL": "54915-action.png"
+    },
+    "56394": {
+      "ImageActionURL": "56394-action.png"
+    },
+    "56409": {
+      "ImageActionURL": "56409-action.png"
+    },
+    "56786": {
+      "ImageActionURL": "56786-action.png"
+    },
+    "58172": {
+      "ImageActionURL": "58172-action.png"
+    },
+    "61102": {
+      "ImageActionURL": "61102-action.png"
+    },
+    "64070": {
+      "ImageActionURL": "64070-action.png"
+    },
+    "64586": {
+      "ImageActionURL": "64586-action.png"
+    },
+    "64598": {
+      "ImageActionURL": "64598-action.png"
+    },
+    "65977": {
+      "ImageActionURL": "65977-action.png"
+    },
+    "68341": {
+      "ImageActionURL": "68341-action.png"
+    },
+    "68359": {
+      "ImageActionURL": "68359-action.png"
+    },
+    "70608": {
+      "ImageActionURL": "70608-action.png"
+    },
+    "70860": {
+      "ImageActionURL": "70860-action.png"
+    },
+    "73424": {
+      "ImageActionURL": "73424-action.png"
+    },
+    "76101": {
+      "ImageActionURL": "76101-action.png"
+    },
+    "76517": {
+      "ImageActionURL": "76517-action.png",
+      "ImageActionPeakURL": "76517-action-peak.png"
+    },
+    "76578": {
+      "ImageActionURL": "76578-action.png"
+    },
+    "78694": {
+      "ImageActionURL": "78694-action.png"
+    },
+    "80266": {
+      "ImageActionURL": "80266-action.png"
+    },
+    "81249": {
+      "ImageActionURL": "81249-action.png"
+    },
+    "81621": {
+      "ImageActionURL": "81621-action.png"
+    },
+    "81664": {
+      "ImageActionURL": "81664-action.png"
+    },
+    "81689": {
+      "ImageActionURL": "81689-action.png"
+    },
+    "82178": {
+      "ImageActionURL": "82178-action.png"
+    },
+    "82209": {
+      "ImageActionURL": "82209-action.png"
+    },
+    "82275": {
+      "ImageActionURL": "82275-action.png"
+    },
+    "82312": {
+      "ImageActionURL": "82312-action.png"
+    },
+    "82491": {
+      "ImageActionURL": "82491-action.png"
+    },
+    "83844": {
+      "ImageActionURL": "83844-action.png"
+    },
+    "84046": {
+      "ImageActionURL": "84046-action.png"
+    },
+    "84076": {
+      "ImageActionURL": "84076-action.png"
+    },
+    "84372": {
+      "ImageActionURL": "84372-action.png"
+    },
+    "84384": {
+      "ImageActionURL": "84384-action.png"
+    },
+    "84738": {
+      "ImageActionURL": "84738-action.png"
+    },
+    "85046": {
+      "ImageActionURL": "85046-action.png"
+    },
+    "85260": {
+      "ImageActionURL": "85260-action.png"
+    },
+    "85388": {
+      "ImageActionURL": "85388-action.png"
+    },
+    "85954": {
+      "ImageActionURL": "85954-action.png"
+    },
+    "85984": {
+      "ImageActionURL": "85984-action.png"
+    },
+    "85994": {
+      "ImageActionURL": "85994-action.png"
+    },
+    "86085": {
+      "ImageActionURL": "86085-action.png"
+    },
+    "86836": {
+      "ImageActionURL": "86836-action.png"
+    },
+    "86903": {
+      "ImageActionURL": "86903-action.png"
+    },
+    "87019": {
+      "ImageActionURL": "87019-action.png"
+    },
+    "87638": {
+      "ImageActionURL": "87638-action.png"
+    },
+    "87683": {
+      "ImageActionURL": "87683-action.png"
+    },
+    "87870": {
+      "ImageActionURL": "87870-action.png"
+    },
+    "87889": {
+      "ImageActionURL": "87889-action.png"
+    },
+    "87941": {
+      "ImageActionURL": "87941-action.png"
+    },
+    "88100": {
+      "ImageActionURL": "88100-action.png"
+    },
+    "88385": {
+      "ImageActionURL": "88385-action.png"
+    },
+    "88949": {
+      "ImageActionURL": "88949-action.png"
+    },
+    "89018": {
+      "ImageActionURL": "89018-action.png"
+    },
+    "89264": {
+      "ImageActionURL": "89264-action.png"
+    },
+    "89344": {
+      "ImageActionURL": "89344-action.png"
+    },
+    "89761": {
+      "ImageActionURL": "89761-action.png"
+    },
+    "89787": {
+      "ImageActionURL": "89787-action.png"
+    },
+    "90068": {
+      "ImageActionURL": "90068-action.png"
+    },
+    "90287": {
+      "ImageActionURL": "90287-action.png"
+    },
+    "90862": {
+      "ImageActionURL": "90862-action.png"
+    },
+    "90892": {
+      "ImageActionURL": "90892-action.png"
+    },
+    "90916": {
+      "ImageActionURL": "90916-action.png"
+    },
+    "90936": {
+      "ImageActionURL": "90936-action.png"
+    },
+    "91084": {
+      "ImageActionURL": "91084-action.png"
+    },
+    "92649": {
+      "ImageActionURL": "92649-action.png"
+    },
+    "93302": {
+      "ImageActionURL": "93302-action.png"
+    },
+    "93823": {
+      "ImageActionURL": "93823-action.png"
+    },
+    "94241": {
+      "ImageActionURL": "94241-action.png"
+    },
+    "94350": {
+      "ImageActionURL": "94350-action.png"
+    },
+    "94642": {
+      "ImageActionURL": "94642-action.png"
+    },
+    "94708": {
+      "ImageActionURL": "94708-action.png"
+    },
+    "95052": {
+      "ImageActionURL": "95052-action.png"
+    },
+    "95199": {
+      "ImageActionURL": "95199-action.png"
+    },
+    "95236": {
+      "ImageActionURL": "95236-action.png"
+    },
+    "95525": {
+      "ImageActionURL": "95525-action.png"
+    },
+    "97113": {
+      "ImageActionURL": "97113-action.png"
+    },
+    "97322": {
+      "ImageActionURL": "97322-action.png"
+    },
+    "97458": {
+      "ImageActionURL": "97458-action.png"
+    },
+    "97514": {
+      "ImageActionURL": "97514-action.png"
+    },
+    "97651": {
+      "ImageActionURL": "97651-action.png"
+    },
+    "97934": {
+      "ImageActionURL": "97934-action.png"
+    },
+    "98514": {
+      "ImageActionURL": "98514-action.png"
+    },
+    "99086": {
+      "ImageActionURL": "99086-action.png"
+    },
+    "99244": {
+      "ImageActionURL": "99244-action.png"
+    },
+    "99273": {
+      "ImageActionURL": "99273-action.png"
+    },
+    "99575": {
+      "ImageActionURL": "99575-action.png"
+    },
+    "99589": {
+      "ImageActionURL": "99589-action.png"
+    },
+    "99607": {
+      "ImageActionURL": "99607-action.png"
+    },
+    "99727": {
+      "ImageActionURL": "99727-action.png"
+    },
+    "99729": {
+      "ImageActionURL": "99729-action.png"
+    },
+    "100768": {
+      "ImageActionURL": "100768-action.png"
+    },
+    "100840": {
+      "ImageActionURL": "100840-action.png"
+    },
+    "100881": {
+      "ImageActionURL": "100881-action.png"
+    },
+    "101303": {
+      "ImageActionURL": "101303-action.png"
+    },
+    "101763": {
+      "ImageActionURL": "101763-action.png"
+    },
+    "101780": {
+      "ImageActionURL": "101780-action.png"
+    },
+    "101902": {
+      "ImageActionURL": "101902-action.png"
+    },
+    "102243": {
+      "ImageActionURL": "102243-action.png"
+    },
+    "102354": {
+      "ImageActionURL": "102354-action.png"
+    },
+    "102524": {
+      "ImageActionURL": "102524-action.png"
+    },
+    "102708": {
+      "ImageActionURL": "102708-action.png"
+    },
+    "102857": {
+      "ImageActionURL": "102857-action.png"
+    },
+    "102876": {
+      "ImageActionURL": "102876-action.png"
+    },
+    "103252": {
+      "ImageActionURL": "103252-action.png"
+    },
+    "103403": {
+      "ImageActionURL": "103403-action.png"
+    },
+    "104266": {
+      "ImageActionURL": "104266-action.png"
+    },
+    "104435": {
+      "ImageActionURL": "104435-action.png"
+    },
+    "104640": {
+      "ImageActionURL": "104640-action.png"
+    },
+    "104679": {
+      "ImageActionURL": "104679-action.png"
+    },
+    "104825": {
+      "ImageActionURL": "104825-action.png"
+    },
+    "105634": {
+      "ImageActionURL": "105634-action.png"
+    },
+    "105942": {
+      "ImageActionURL": "105942-action.png"
+    },
+    "106073": {
+      "ImageActionURL": "106073-action.png"
+    },
+    "107694": {
+      "ImageActionURL": "107694-action.png"
+    },
+    "107765": {
+      "ImageActionURL": "107765-action.png"
+    },
+    "107796": {
+      "ImageActionURL": "107796-action.png"
+    },
+    "108912": {
+      "ImageActionURL": "108912-action.png"
+    },
+    "110645": {
+      "ImageActionURL": "110645-action.png"
+    },
+    "111917": {
+      "ImageActionURL": "111917-action.png"
+    },
+    "115745": {
+      "ImageActionURL": "115745-action.png"
+    },
+    "117462": {
+      "ImageActionURL": "117462-action.png"
+    },
+    "119238": {
+      "ImageActionURL": "119238-action.png"
+    },
+    "120264": {
+      "ImageActionURL": "120264-action.png"
+    },
+    "120840": {
+      "ImageActionURL": "120840-action.png"
+    },
+    "124453": {
+      "ImageActionURL": "124453-action.png"
+    },
+    "126349": {
+      "ImageActionURL": "126349-action.png"
+    },
+    "126898": {
+      "ImageActionURL": "126898-action.png"
+    },
+    "135567": {
+      "ImageActionURL": "135567-action.png"
+    },
+    "156594": {
+      "ImageActionURL": "156594-action.png"
+    },
+    "89017": {
+      "ImagePeakURL": "89017-peak.png"
+    }
+  }
+}
